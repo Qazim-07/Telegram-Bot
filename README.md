@@ -374,10 +374,10 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Contact & Support
 
-- **Project Author:** [Your Name]
-- **Email:** [your.email@domain.com]
-- **LinkedIn:** [Your LinkedIn Profile]
-- **Project Repository:** [GitHub Repository URL]
+- **Project Author:** Mohammad Qazim
+- **Email:** qaz933644@gmail.com
+- **LinkedIn:** https://www.linkedin.com/in/mohd-qazim-0146482b5?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+- **Project Repository:** https://github.com/Qazim-07/Telegram-Bot/blob/main/bot.py
 
 ---
 
